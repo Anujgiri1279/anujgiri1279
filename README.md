@@ -2,7 +2,7 @@
 
 Anuj Giri (AKA MAVI) 
 An 18 Year old Exploring Internet and trying to make something great and Fascinating.
-Currently Learning Java Script And Python
+Currently Learning C And Logics
 
 
 Hobbies : Chess , Typing , Coding Etc...
