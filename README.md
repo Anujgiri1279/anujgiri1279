@@ -1,6 +1,6 @@
 # About Me 
 
-Anuj Giri (AKA MAVI) 
+Anuj Giri 
 An 18 Year old Exploring Internet and trying to make something great and Fascinating.
 Currently Learning C And Logics
 
